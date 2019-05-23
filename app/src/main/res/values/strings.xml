@@ -1,0 +1,7 @@
+<resources>
+  <string name="app_name">Fizz Buzz</string>
+  <string name="mockup_Value">$$</string>
+  <string name="play">play</string>
+  <string name="pause">pause</string>
+  <string name="settings">settings</string>
+</resources>
